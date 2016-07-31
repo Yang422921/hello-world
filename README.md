@@ -1,2 +1,3 @@
 # hello-world
-guide
+This is the first use of Github.
+LALALA
